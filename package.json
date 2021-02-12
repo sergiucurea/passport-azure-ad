@@ -34,9 +34,9 @@
   "dependencies": {
     "async": "^1.5.2",
     "base64url": "^3.0.0",
-    "bunyan": "^1.8.14",
+    "bunyan": "^1.8.15",
     "cache-manager": "2.10.2",
-    "https-proxy-agent": "^2.2.2",
+    "https-proxy-agent": "^5.0.0",
     "jwk-to-pem": "^2.0.4",
     "jws": "^3.1.3",
     "lodash": "^4.11.2",
