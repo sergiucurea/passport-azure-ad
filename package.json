@@ -2,25 +2,7 @@
   "name": "@sergiucurea/passport-azure-ad",
   "version": "4.3.0",
   "license": "MIT",
-  "keywords": [
-    "azure active directory",
-    "aad",
-    "adfs",
-    "sso",
-    "oidc",
-    "bearer",
-    "shibboleth"
-  ],
   "description": "OIDC and Bearer Passport strategies for Azure Active Directory",
-  "author": {
-    "name": "azuread",
-    "email": "nugetaad@microsoft.com",
-    "url": "http://microsoft.com/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:AzureAD/passport-azure-ad.git"
-  },
   "main": "./lib",
   "publishConfig": {"registry": "https://npm.pkg.github.com/@sergiucurea"},
   "devDependencies": {
