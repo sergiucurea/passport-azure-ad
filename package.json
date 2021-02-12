@@ -1,5 +1,5 @@
 {
-  "name": "passport-azure-ad",
+  "name": "@sergiucurea/passport-azure-ad",
   "version": "4.3.0",
   "license": "MIT",
   "keywords": [
