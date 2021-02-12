@@ -22,6 +22,7 @@
     "url": "git@github.com:AzureAD/passport-azure-ad.git"
   },
   "main": "./lib",
+  "publishConfig": {"registry": "https://npm.pkg.github.com/@sergiucurea"},
   "devDependencies": {
     "chai": "2.x.x",
     "chai-passport-strategy": "1.x.x",
