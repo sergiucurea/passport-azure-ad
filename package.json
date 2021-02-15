@@ -1,6 +1,6 @@
 {
   "name": "@sergiucurea/passport-azure-ad",
-  "version": "4.3.0",
+  "version": "4.3.1",
   "license": "MIT",
   "description": "OIDC and Bearer Passport strategies for Azure Active Directory",
   "main": "./lib",
