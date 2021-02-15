@@ -1,0 +1,17 @@
+export function getLibraryProduct(): string;
+export function getLibraryVersionParameterName(): string;
+export function getLibraryProductParameterName(): string;
+export function getLibraryVersion(): string;
+export function getElement(parentElement: any, elementName: any): any;
+export function getFirstElement(parentElement: any, elementName: any): any;
+export function originalURL(req: any): string;
+export function merge(a: any, b: any): any;
+export function uid(len: number): string;
+export function rsaPublicKeyPem(modulusB64: any, exponentB64: any): string;
+export function checkHashValueRS256(content: any, hashProvided: any): boolean;
+export function processArray(array: any, maxAmount: any, maxAge: any): void;
+export function findAndDeleteTupleByState(array: any, state: any): any;
+export function copyObjectFields(source: any, dest: any, fields: any): void;
+export function getErrorMessage(err: any): any;
+export function concatUrl(url: any, rest: any): any;
+export function sameSiteNotAllowed(userAgent: any): boolean;

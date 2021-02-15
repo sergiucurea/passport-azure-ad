@@ -4,7 +4,10 @@
   "license": "MIT",
   "description": "OIDC and Bearer Passport strategies for Azure Active Directory",
   "main": "./lib",
-  "publishConfig": {"registry": "https://npm.pkg.github.com/@sergiucurea"},
+  "types:": "./lib",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@sergiucurea"
+  },
   "devDependencies": {
     "chai": "2.x.x",
     "chai-passport-strategy": "1.x.x",
@@ -26,6 +29,7 @@
     "oauth": "0.9.15",
     "passport": "^0.3.2",
     "request": "^2.72.0",
+    "typescript": "^4.1.5",
     "valid-url": "^1.0.6"
   },
   "scripts": {
